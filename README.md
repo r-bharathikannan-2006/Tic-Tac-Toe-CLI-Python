@@ -33,7 +33,7 @@ The game leverages the [jsonbin.io](https://jsonbin.io/ "null") service to act a
     
     ```
     git clone [https://github.com/r-bharathikannan-2006/Tic-Tac-Toe-CLI-Python.git](https://github.com/r-bharathikannan-2006/Tic-Tac-Toe-CLI-Python.git)
-    cd your-repository-name
+    cd Tic-Tac-Toe-CLI-Python
     
     ```
     
