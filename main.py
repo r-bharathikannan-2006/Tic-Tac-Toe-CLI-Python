@@ -270,9 +270,12 @@ else:
             break
     print(f"The winner is {winner}")
 
+print("Please be patient before closing the program...")
+time.sleep(5)
 dictionary = {
     "last_move": last_move,
 }
 code = put_request(url, dictionary, master_key=x_Master_Key)
+
 
 
